@@ -5,4 +5,5 @@ This program was developed to validate a tool that optimizes communication in un
 
 ## Usage
 
-mpiexec ./random_sendrecv <max peers> <min data size> <max data size> <seed for random number>
+mpiexec ./random_sendrecv  _max_peers_  _min_data_size_  _max_data_size_  _seed_for_random_number_
+
